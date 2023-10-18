@@ -7,7 +7,8 @@
         "xo",
         "xo/browser",
         "plugin:vue/vue3-essential",
-        "plugin:vue/vue3-recommended"
+        "plugin:vue/vue3-recommended",
+        "prettier"
     ],
     "parserOptions": {
         "ecmaVersion": "latest",
@@ -15,9 +16,5 @@
     },
     "plugins": [
         "vue"
-    ],
-    "rules": {
-      "no-mixed-spaces-and-tabs": "error",
-      "space-before-blocks": "error"
-    }
+    ]
 }
