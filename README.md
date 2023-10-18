@@ -7,8 +7,6 @@
 
 <h4 align="center"> O último assistente que você vai precisar para <a href="https://ordemparanormal.com.br" target="_blank">Ordem Paranormal</a>.</h4>
 
-
-
 <p align="center">
   <!-- <a href="">
     <img src=""
