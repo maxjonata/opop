@@ -1,0 +1,12 @@
+export type { default as Pericia } from "./Pericia";
+export type { default as Origem } from "./Origem";
+export type { default as Classe } from "./Classe";
+export type { default as Ataque } from "./Ataque";
+export type { default as Inventario } from "./Inventario";
+export type { default as Roleplay } from "./Roleplay";
+export type { default as Atributos } from "./Atributos";
+export type { default as Personagem } from "./Personagem";
+export type { default as Item } from "./Item";
+export type { default as Bonus } from "./Bonus";
+export type { default as Habilidade } from "./Habilidade";
+export type { default as Proficiencia } from "./Proficiencia";
