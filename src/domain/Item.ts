@@ -1,13 +1,16 @@
 import { Ataque, Bonus } from "./";
 
 export default interface Item {
+  id: number;
   nome: string;
   descricao: string;
   categoria: number;
   espaco: number;
   quantidade: number;
   tipo: string;
-  tipoid: number;
+  tipoId: number;
+  tipoItem: string;
   bonus: Bonus[];
-  Ataques: Ataque[];
+  ataques?: Ataque[];
+  protecao?: number;
 }

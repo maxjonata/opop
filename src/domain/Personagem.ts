@@ -21,7 +21,8 @@ export default interface Personagem {
   limite_de_credito: number;
   carga: number[];
   patente: number;
-  name: string;
+  nome: string;
+  nome_do_jogador: string;
   game?: string;
   nex: number;
   deslocamento: number;
